@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6a35f6e4-ab13-4976-9ff7-88c9e5d4ffd4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XFfvIV8k14Ww4aWGWTal8BwFbz" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+  </component>
+  <component name="RunManager">
+    <configuration name="COWIterationExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="COWIterationExamples" />
+      <module name="8CopyOnWriteArrayList" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.COWIterationExamples" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a35f6e4-ab13-4976-9ff7-88c9e5d4ffd4" name="Default Changelist" comment="" />
+      <created>1580646991195</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580646991195</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1388" height="271" key="GridCell.Tab.0.bottom" timestamp="1580651687101">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1388" height="271" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1580651687101" />
+    <state width="1388" height="271" key="GridCell.Tab.0.center" timestamp="1580651687100">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1388" height="271" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1580651687100" />
+    <state width="1388" height="271" key="GridCell.Tab.0.left" timestamp="1580651687100">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1388" height="271" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1580651687100" />
+    <state width="1388" height="271" key="GridCell.Tab.0.right" timestamp="1580651687100">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1388" height="271" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1580651687100" />
+    <state width="1388" height="271" key="GridCell.Tab.1.bottom" timestamp="1580651687101">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1388" height="271" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1580651687101" />
+    <state width="1388" height="271" key="GridCell.Tab.1.center" timestamp="1580651687101">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1388" height="271" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1580651687101" />
+    <state width="1388" height="271" key="GridCell.Tab.1.left" timestamp="1580651687101">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1388" height="271" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1580651687101" />
+    <state width="1388" height="271" key="GridCell.Tab.1.right" timestamp="1580651687101">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1388" height="271" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1580651687101" />
+    <state x="0" y="23" key="new project wizard" timestamp="1580648385993">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="0" y="23" key="new project wizard/0.23.1440.877@0.23.1440.877" timestamp="1580648385993" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/COWIterationExamples.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
