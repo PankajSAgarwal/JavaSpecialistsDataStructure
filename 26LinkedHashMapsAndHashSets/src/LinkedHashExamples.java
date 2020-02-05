@@ -62,7 +62,7 @@ public class LinkedHashExamples {
         }
         // 4 is at the beginning of the map
         System.out.println("lruSquares = " + lruSquares);
-        
+
 
 
 
