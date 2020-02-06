@@ -28,6 +28,6 @@ public class ConcurrentQueueExample {
 
         // lifo or fifo or some hybrid
         Queue<Integer> cld = new ConcurrentLinkedDeque<>();
-        
+
     }
 }
