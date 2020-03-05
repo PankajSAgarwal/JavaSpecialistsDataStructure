@@ -98,6 +98,45 @@ public class SinglyLinkedList<T> {
         return false;//value not found
     }
 
+    //Deletes data from the head of list
+
+    public void deleteAtHead(){
+        //if list is empty then simply return
+        if(isEmpty()){
+            return;
+        }
+        //make the nextNode of the headNode equal to new headNode
+        headNode = headNode.nextNode;
+        size--;
+    }
+
+    // Deletion by value
+
+    public void deleteByValue(T data){
+
+        if(isEmpty())
+            return;
+
+        Node currentNode = headNode;
+        Node prevNode = null;
+
+        if(data.equals(currentNode.data)){
+            deleteAtHead();
+            return;
+        }
+
+        while(currentNode != null){
+
+            if(data.equals(currentNode.data)){
+
+                prevNode.nextNode = currentNode.nextNode;
+                size--;
+                return;
+            }
+            prevNode = currentNode;
+            currentNode = currentNode.nextNode;
+        }
+    }
 
     // Helper function to print list
 

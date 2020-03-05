@@ -21,10 +21,10 @@ public class ListDemo {
             sll.insertAtEnd(i);
             //sll.printList();
         }*/
-        sll.insertAtEnd(5);
-        sll.insertAtEnd(90);
-        sll.insertAtEnd(10);
-        sll.insertAtEnd(4);
+        sll.insertAtEnd(3);
+        sll.insertAtEnd(2);
+        sll.insertAtEnd(1);
+        sll.insertAtEnd(0);
 
         sll.printList();
         //sll.insertAtEnd(3);
@@ -33,7 +33,11 @@ public class ListDemo {
         //sll.printList();
 //        System.out.println ("\nInserting 10 after 3");
 //        sll.insertAfter (10, 3);   // calling insert after
-        System.out.println(sll.searchNode(5));
+       // System.out.println(sll.searchNode(5));
+        //sll.printList();
+        //sll.deleteAtHead();
+
+        sll.deleteByValue(1);
         sll.printList();
     }
 }

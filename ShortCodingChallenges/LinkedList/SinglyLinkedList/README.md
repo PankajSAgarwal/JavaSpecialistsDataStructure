@@ -27,4 +27,30 @@ true
 
 ## Time Complexity #
 The time complexity for this algorithm is O(n) because we have to traverse through the list.
+
+# 5. Singly Linked List Deletion
+
+Deletion is one of the instances where linked lists are more efficient than arrays. 
+In an array, you have to shift all the elements backward if one element is deleted. 
+Even then, the end of the array is empty and it takes up unnecessary memory.
+In the case of linked lists, the node is removed merely in constant time.
+
+a) Deletion at Head<br/>
+b) Deletion by value
+
+a) Deletion at Head #<br/>
+
+   This operation simply deletes a node from the head of the list, which means that it always deletes the first element of the list. This type of deletion is used when your list is ordered, and you want to implement a priority queue–via a linked list-- to keep track of all the elements. Here’s an illustration of how this type of deletion works in a Singly Linked List:
+ ## Time Complexity: <br/>
+ The algorithm runs in O(1) since we’re deleting the first node of the list.
  
+b) Deletion in Singly Linked List(Delete by Value) <br/>
+
+Sample Input #<br/>
+linkedlist = 3->2->1->0, 
+data = 1
+Sample Output # <br/>
+linkedlist = 3->2->0
+
+## Time Complexity #
+  In the worst case, you would have to traverse until the end of the list. This means the time complexity will be O(n).
