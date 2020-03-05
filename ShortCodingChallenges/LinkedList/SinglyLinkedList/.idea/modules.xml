@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/InsertAtHead-SLL.iml" filepath="$PROJECT_DIR$/InsertAtHead-SLL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SinglyLinkedList.iml" filepath="$PROJECT_DIR$/SinglyLinkedList.iml" />
     </modules>
   </component>
 </project>

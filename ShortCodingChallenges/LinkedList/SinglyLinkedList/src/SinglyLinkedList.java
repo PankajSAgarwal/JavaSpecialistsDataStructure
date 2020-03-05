@@ -81,6 +81,24 @@ public class SinglyLinkedList<T> {
              size++;
         }
     }
+
+    // search Node
+    public boolean searchNode(T data){
+        //Start from first element
+        Node currentNode = this.headNode;
+        //Traverse the list till you reach end
+
+        while(currentNode !=null){
+            if(currentNode.data.equals(data)){
+                return true;
+            }
+            currentNode = currentNode.nextNode;
+        }
+
+        return false;//value not found
+    }
+
+
     // Helper function to print list
 
     public void printList(){

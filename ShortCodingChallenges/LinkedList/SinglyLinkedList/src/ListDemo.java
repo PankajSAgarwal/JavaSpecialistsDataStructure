@@ -17,17 +17,23 @@ public class ListDemo {
             sll.printList();
         }*/
 
-        for (int i = 0; i <5 ; i++) {
+        /*for (int i = 0; i <5 ; i++) {
             sll.insertAtEnd(i);
             //sll.printList();
-        }
+        }*/
+        sll.insertAtEnd(5);
+        sll.insertAtEnd(90);
+        sll.insertAtEnd(10);
+        sll.insertAtEnd(4);
+
         sll.printList();
         //sll.insertAtEnd(3);
-        System.out.println ("\nInserting 8 after 2");
-        sll.insertAfter(8,2);
-        sll.printList();
-        System.out.println ("\nInserting 10 after 3");
-        sll.insertAfter (10, 3);   // calling insert after
+        //System.out.println ("\nInserting 8 after 2");
+        //sll.insertAfter(8,2);
+        //sll.printList();
+//        System.out.println ("\nInserting 10 after 3");
+//        sll.insertAfter (10, 3);   // calling insert after
+        System.out.println(sll.searchNode(5));
         sll.printList();
     }
 }
