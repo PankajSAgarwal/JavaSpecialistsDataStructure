@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0adbdc88-2af6-451d-86a6-ebe8f8e981bd" name="Default Changelist" comment="" />
+    <list default="true" id="0adbdc88-2af6-451d-86a6-ebe8f8e981bd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../24ConcurrentSkipListMap/24ConcurrentSkipListMapTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../27SpecializedCollections/SpecializedCollections.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../33ArrayBlockingQueue/33ArrayBlockingQueue.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../23TreeMap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../23TreeMap/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ListExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ListExamples.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +26,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1XEwOUBuHCCLzCVIUZfw9BAedkL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -27,9 +40,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
   </component>
   <component name="RunManager">
@@ -76,6 +91,14 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1388" height="217" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1580628272386" />
+    <state x="208" y="43" key="SettingsEditor" timestamp="1583463233797">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="208" y="43" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1583463233797" />
+    <state x="399" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1583463078939">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="399" y="294" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1583463078939" />
     <state x="0" y="23" key="new project wizard" timestamp="1580626348294">
       <screen x="0" y="23" width="1440" height="877" />
     </state>

@@ -3,8 +3,9 @@ public class UniqueNonRepeatingArrayElement {
     public static void main(String[] args) {
 
         int[] arr = {9, 2, 3, 2, 6, 6}; // sample input
+        System.out.println("Input Array: " + arrayToString(arr));
         int uniqueFirst = findFirstUnique(arr);
-        System.out.println(uniqueFirst);
+        System.out.println("First Non repeating element in the array : " + uniqueFirst);
 
     }
 
@@ -37,6 +38,19 @@ public class UniqueNonRepeatingArrayElement {
 
 
         return - 1;
+    }
+
+    public static String arrayToString(int arr[]){
+        if (arr.length > 0){
+            String result = "";
+            for(int i = 0; i < arr.length; i++) {
+                result += arr[i] + " ";
+            }
+            return result;
+        }
+        else {
+            return "Empty Array!";
+        }
     }
 }
 

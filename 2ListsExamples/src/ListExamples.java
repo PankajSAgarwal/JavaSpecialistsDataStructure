@@ -1,9 +1,10 @@
+import java.util.Arrays;
 import java.util.List;
 
 public class ListExamples {
 
     public static void main(String[] args) {
-        //List<String> names = Arrays.asList("John","Anton","Pankaj");
+        List<String> names = Arrays.asList("John","Anton","Pankaj");
         // List.of creates immutable list List.of is java9
         List<String> names = List.of("John","Anton");
         System.out.println(names.get(0));
