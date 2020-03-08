@@ -1,0 +1,5 @@
+To rotate the array towards the right, we have to shift the array one index position towards the right.
+This means moving every element from index i to i + 1 position.
+However, if we start shifting elements then the last element at index arr[arr.length - 1] is overwritten.
+Hence first we save the element in a variable lastElement. Then we start shifting elements from index i - 1 to i
+where i starts from the last index i.e. arr.length - 1. When the loop ends value in lastElement is placed on arr[0].
