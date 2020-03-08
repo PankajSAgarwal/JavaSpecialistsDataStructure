@@ -1,0 +1,2 @@
+1. The algorithm for this solution is to first create a new array with products of all elements to the left of each element
+2. Then multiply each element in that array to the product of all the elements to the right of the array by traversing it in reverse
