@@ -1,0 +1,5 @@
+We start from the first element and traverse through the whole array comparing it with all the other elements
+to see if any element is equal to it.
+
+If so, we skip to the next element and repeat.
+If not, then this is the first unique element in the array.
